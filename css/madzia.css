@@ -1,7 +1,7 @@
 h1{font-size: xx-large;}
 
 p{font-family: 'Times New Roman', Times, serif; 
-    color: #16006B;
+    color: black;
     margin-top: auto;
     text-align: left;
 }
@@ -19,7 +19,11 @@ h2{font-family: 'Times New Roman', Times, serif;
     color: black;
 }
 
-figure{align-self: center;}
+img{
+    width: 50%;
+    margin: 0 0 0 0;
+    float: right;
+}
 
 figcaption{text-align: center;}
 
