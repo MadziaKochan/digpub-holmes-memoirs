@@ -1,0 +1,25 @@
+h1{font-size: xx-large;}
+
+p{font-family: 'Times New Roman', Times, serif; 
+    color: #16006B;
+    margin-top: auto;
+    text-align: left;
+}
+
+p.first-paragraph::first-letter{font-size: xx-large;
+font-style: italic;
+font-family: 'Bookman', 'URW Bookman L', serif;}
+
+
+h2{font-family: 'Times New Roman', Times, serif; 
+    font-size: x-large;
+    text-decoration: underline;
+    font-weight: 400;
+    text-align: center;
+    color: black;
+}
+
+figure{align-self: center;}
+
+figcaption{text-align: center;}
+
